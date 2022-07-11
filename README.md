@@ -1,2 +1,6 @@
 # discord-theme
-My Discord Style (Browser CSS) (Inherited from 
+My Discord Style (Browser CSS)
+
+How to use?
+
+Install Stylus for your browser and copy the script from this repo into it.
